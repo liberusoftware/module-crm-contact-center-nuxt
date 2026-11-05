@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-contact-center-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-contact-center",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-contact-center-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/contact-center.md",
+  "presentationPlan": "projects/crm/nuxt/contact-center.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
